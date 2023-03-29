@@ -1,6 +1,6 @@
 ## Getting Started
 
-Consumindo microserviços atras de API externa de catalogos de filmes do IMDB 
+Consumindo microserviços através de API externa de catalogos de filmes do IMDB 
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
